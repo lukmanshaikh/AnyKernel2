@@ -1,5 +1,4 @@
 build
-kernel/Image.gz
-zipsigner-2.1.jar
-*/msm8937-*.dtb
+Image.gz-dtb
+MinSignApk/
 *.zip
